@@ -1,6 +1,6 @@
 body
 {
-	background-image:url("../imgremedialUASGenap/night.jpg");
+	background-image:url("../Data/img remedial UAS Genap/night.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -23,4 +23,5 @@ p
 	margin-right: 100px;
 	margin-left: 100px;
 	text-shadow: 4px 3px fuchsia;
+	font-size: 20px;
 }
